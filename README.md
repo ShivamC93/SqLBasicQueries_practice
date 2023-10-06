@@ -1,0 +1,1 @@
+# SqLBasicQueries_practice
